@@ -1,60 +1,60 @@
 {
   "Metadata": {
-    "title": "Free PDF Page Rotator - Rotate Individual or All Pages",
-    "description": "Rotate individual or all pages in your PDF effortlessly. No downloads or sign-ups. Fast, secure, and user-friendly. Try now!",
+    "title": "Kostenloser PDF-Seiten-Dreher - Einzelne oder alle Seiten drehen",
+    "description": "Drehen Sie einzelne oder alle Seiten in Ihrem PDF mühelos. Keine Downloads oder Anmeldungen erforderlich. Schnell, sicher und benutzerfreundlich. Jetzt ausprobieren!",
     "site-name": "AI PDF",
     "site-title": "AI PDF"
   },
   
   "Navbar": {
     "title": "PDF.ai",
-    "chrome": "Chrome extension",
-    "cases": "Use cases",
-    "started": "Get started→",
-    "pricing":"pricing"
+    "chrome": "Chrome-Erweiterung",
+    "cases": "Anwendungsfälle",
+    "started": "Jetzt starten→",
+    "pricing": "Preise"
   },
   "Contact": {
-    "title": "Rotate PDF Pages",
-    "content": "Simply click on a page to rotate it.You can then download your modified PDF."
+    "title": "PDF-Seiten drehen",
+    "content": "Klicken Sie einfach auf eine Seite, um sie zu drehen. Anschließend können Sie Ihr bearbeitetes PDF herunterladen."
   },
-  "Footer":{
+  "Footer": {
     "logoAlt": "Logo",
     "logoText": "PDF.ai",
-    "tagline": "Chat with any PDF: ask questions, get summaries, and more.",
+    "tagline": "Chatten Sie mit jedem PDF: Stellen Sie Fragen, erhalten Sie Zusammenfassungen und mehr.",
     "socialMediaTitles": {
       "tiktok": "TikTok",
       "instagram": "Instagram",
       "twitter": "Twitter",
       "youtube": "YouTube"
     },
-    "products": "Products",
+    "products": "Produkte",
     "productItems": {
-      "useCases": "Use Cases",
-      "chromeExtension": "Chrome Extension",
-      "apiDocs": "API Docs",
-      "pricing": "Pricing",
-      "videoTutorials": "Video tutorials",
-      "resources": "Resources",
+      "useCases": "Anwendungsfälle",
+      "chromeExtension": "Chrome-Erweiterung",
+      "apiDocs": "API-Dokumentation",
+      "pricing": "Preise",
+      "videoTutorials": "Video-Tutorials",
+      "resources": "Ressourcen",
       "blog": "Blog",
       "faq": "FAQ"
     },
-    "weAlsoBuilt": "We also built",
+    "weAlsoBuilt": "Wir haben auch gebaut",
     "builtItems": {
-      "resumeScanner": "Resume AI Scanner",
-      "invoiceScanner": "Invoice AI Scanner",
-      "quizGenerator": "AI Quiz Generator",
+      "resumeScanner": "AI-Lebenslaufscanner",
+      "invoiceScanner": "AI-Rechnungsscanner",
+      "quizGenerator": "AI-Quiz-Generator",
       "quickyAI": "QuickyAI",
       "doctrine": "Doctrine",
       "pdfGPTs": "PDF GPTs",
-      "pdfAIGenerator": "PDF AI generator",
-      "otherTools": "Other PDF tools"
+      "pdfAIGenerator": "PDF AI-Generator",
+      "otherTools": "Andere PDF-Tools"
     },
-    "company": "Company",
+    "company": "Unternehmen",
     "companyItems": {
       "vsChatPDF": "PDF.ai vs ChatPDF",
       "vsAcrobat": "PDF.ai vs Acrobat Reader",
-      "legal": "Legal",
-      "affiliate": "Affiliate program",
+      "legal": "Rechtliches",
+      "affiliate": "Partnerprogramm",
       "investor": "Investor"
     }
   }

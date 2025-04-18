@@ -50,28 +50,32 @@ const Dropzone = () => {
 
   const downloadFile = async () => {
     if (!pdfFile) return;
-
+  
     const arrayBuffer = await pdfFile.arrayBuffer();
     const pdfDoc = await PDFDocument.load(arrayBuffer);
     const totalPages = pdfDoc.getPageCount();
-
+  
     for (let i = 0; i < totalPages; i++) {
       const page = pdfDoc.getPage(i);
       const pageNumber = i + 1;
       const pageRotate = (pageRotations[pageNumber] || 0) + globalRotate;
       page.setRotation(degrees(pageRotate % 360));
     }
-
+  
     const pdfBytes = await pdfDoc.save();
     const originalName = pdfFile.name.replace(/\.pdf$/i, "");
-    const newFileName = `${originalName}(1).pdf`;
-
+  
+    const now = new Date();
+    const timestamp = now.toISOString().replace(/[:.]/g, "-"); // 防止文件名中含非法字符
+    const newFileName = `${originalName}-${timestamp}.pdf`;
+  
     const blob = new Blob([pdfBytes], { type: "application/pdf" });
     const link = document.createElement("a");
     link.href = URL.createObjectURL(blob);
     link.download = newFileName;
     link.click();
   };
+  
 
   const rotateAll = () => {
     setGlobalRotate((prev) => (prev + 90) % 360);
@@ -89,7 +93,7 @@ const Dropzone = () => {
   };
 
   return (
-    <div className="container mx-auto p-4 max-w-7xl flex flex-col items-center justify-center">
+    <div className="container   max-w-7xl flex flex-col items-center justify-center">
       {pdfFile ? (
         <>
           <div className="flex items-center justify-center w-full mb-6 px-4">
@@ -112,7 +116,7 @@ const Dropzone = () => {
             <div className="flex gap-2">
               <Tooltip text="Zoom In">
                 <button
-                  onClick={() => setScale((prev) => Math.min(prev + 0.2, 3))}
+                  onClick={() => setScale((prev) => Math.min(prev + 0.1, 3))}
                   className="text-xl text-gray-700 hover:text-black ml-3 p-3 bg-white rounded-full shadow-md"
                 >
                   <FiZoomIn />
@@ -120,7 +124,7 @@ const Dropzone = () => {
               </Tooltip>
               <Tooltip text="Zoom Out">
                 <button
-                  onClick={() => setScale((prev) => Math.max(prev - 0.2, 0.4))}
+                  onClick={() => setScale((prev) => Math.max(prev - 0.1, 0.1))}
                   className="text-xl text-gray-700 hover:text-black p-3 bg-white rounded-full shadow-md"
                 >
                   <FiZoomOut />

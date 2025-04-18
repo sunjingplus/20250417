@@ -10,16 +10,17 @@ export default function Contact() {
         <div className="flex flex-col items-center text-center mb-10"> {/* 居中容器 */}
           <h1 
             id="contact" 
-            className="mb-6 text-3xl font-medium text-black sm:text-4xl md:mb-8" /* 响应式字体和间距 */
+            className="mb-6 lg:text-5xl font-medium text-black sm:text-4xl md:mb-8" /* 响应式字体和间距 */
           >
             {t("title")}
           </h1>
-          <p className="max-w-2xl text-lg leading-relaxed text-gray-600 md:text-xl">
+          <p className="max-w-xl text-md leading-relaxed text-gray-600 md:text-lg">
             {t("content")}
           </p>
         </div>
-        <Dropzone />
       </div>
+      <Dropzone />
+
     </section>
   );
 }
