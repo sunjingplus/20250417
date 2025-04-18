@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "postinstall": "node -e \"try{require('canvas')}catch(e){console.log('Optional canvas skipped')}\""
+
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
@@ -70,5 +72,8 @@
     "prisma": "^5.11.0",
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
+  },
+  "optionalDependencies": {
+    "canvas": "^2.11.2"
   }
 }
