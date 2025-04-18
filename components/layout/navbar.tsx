@@ -6,7 +6,6 @@ import { useState } from "react";
 import { useTranslations } from "next-intl";
 import LanguageSwitcher from "@/components/layout/LanguageSwitcher";
 import useLanguageStore from "@/app/store";
-import { Session } from "next-auth";
 
 
 const NavBar: React.FC = () => {
