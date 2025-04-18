@@ -8,6 +8,6 @@ export default function robots() {
       },
     ],
     sitemap: '/sitemap.xml',
-    host: process.env.NEXT_PUBLIC_API_URL,
+    host: `${process.env.NEXT_PUBLIC_API_URL}`,
   };
 }

@@ -6,17 +6,14 @@
 
 ```bash
 yarn install
-yarn add notistack
 yarn dev
 
 
 
 npm install
-npm install notistack
 npm run dev
 
 
 
 pnpm install
-pnpm add notistack
 pnpm dev

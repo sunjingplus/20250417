@@ -2,7 +2,6 @@
 import React, { useState } from "react";
 import { useDropzone } from "react-dropzone";
 import { Document, Page, pdfjs } from "react-pdf";
-import { SnackbarProvider } from "notistack";
 import { FiZoomIn, FiZoomOut, FiRotateCw } from "react-icons/fi";
 import { AiOutlineCloudUpload } from "react-icons/ai";
 import { PDFDocument, degrees } from "pdf-lib";
@@ -91,7 +90,6 @@ const Dropzone = () => {
 
   return (
     <div className="container mx-auto p-4 max-w-7xl flex flex-col items-center justify-center">
-      <SnackbarProvider />
       {pdfFile ? (
         <>
           <div className="flex items-center justify-center w-full mb-6 px-4">
