@@ -1,6 +1,5 @@
 
 
-根据你使用的包管理工具，选择对应的命令来安装依赖并添加 `notistack`
 
 ### 使用 Yarn
 
@@ -8,12 +7,15 @@
 yarn install
 yarn dev
 
+### 使用 npm
+```bash
 
 
 npm install
 npm run dev
 
 
-
+### 使用 pnpm
+```bash
 pnpm install
 pnpm dev
