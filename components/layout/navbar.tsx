@@ -48,14 +48,14 @@ const NavBar: React.FC = () => {
                 {t("pricing")}
               </Link>
               <Link
-                href={`/${language}/how-to-use`}
+                href={`/${language}`}
                 className="font-inter rounded-lg lg:px-2 lg:py-4  hover:underline"
                 title={t("chrome")}
               >
                 {t("chrome")}
               </Link>
               <Link
-                href={`/${language}/introduction`}
+                href={`/${language}`}
                 className="font-inter rounded-lg lg:px-2 lg:py-4  hover:underline"
                 title={t("cases")}
               >
@@ -67,7 +67,7 @@ const NavBar: React.FC = () => {
                 </div>
               </div>
               <Link
-                href={`/${language}/faqs`}
+                href={`/${language}`}
                 className="font-inter rounded-lg lg:px-2 lg:py-4  hover:underline"
                 title={t("started")}
               >
