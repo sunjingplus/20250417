@@ -18,7 +18,7 @@ export default function Contact() {
             {t("content")}
           </p>
         </div>
-        {/* <Dropzone /> */}
+        <Dropzone />
       </div>
     </section>
   );
