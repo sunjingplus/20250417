@@ -1,0 +1,68 @@
+{
+  "Metadata": {
+    "title": "無料のPDFページ回転ツール - 個々のページまたはすべてのページを回転",
+    "description": "PDFの個々のページまたはすべてのページを簡単に回転させます。ダウンロードやサインアップは必要ありません。高速、安全、そして使いやすいです。今すぐお試しください！",
+    "site-name": "AI PDF",
+    "site-title": "AI PDF"
+},
+  
+    "Navbar": {
+      "title": "PDF.ai",
+      "chrome": "Chrome拡張機能",
+      "cases": "使用事例",
+      "started": "始める→",
+      "pricing": "価格"
+    }
+  ,
+  
+  
+    "Contact": {
+      "title": "PDFページの回転",
+      "content": "回転したいページをクリックするだけで回転できます。変更したPDFをダウンロードできます。"
+    },
+    
+      "Footer": {
+        "logoAlt": "ロゴ",
+        "logoText": "PDF.ai",
+        "tagline": "あらゆるPDFとチャット：質問をしたり、要約を获取したりできます。",
+        "socialMediaTitles": {
+          "tiktok": "TikTok",
+          "instagram": "Instagram",
+          "twitter": "Twitter",
+          "youtube": "YouTube"
+        },
+        "products": "製品",
+        "productItems": {
+          "useCases": "ユースケース",
+          "chromeExtension": "Chrome拡張機能",
+          "apiDocs": "APIドキュメント",
+          "pricing": "料金",
+          "videoTutorials": "ビデオチュートリアル",
+          "resources": "リソース",
+          "blog": "ブログ",
+          "faq": "よくある質問"
+        },
+        "weAlsoBuilt": "私たちはまた、以下も開発しました",
+        "builtItems": {
+          "resumeScanner": "レジュメAIスキャナー",
+          "invoiceScanner": "請求書AIスキャナー",
+          "quizGenerator": "AIクイズジェネレーター",
+          "quickyAI": "QuickyAI",
+          "doctrine": "ドクトリン",
+          "pdfGPTs": "PDF GPTs",
+          "pdfAIGenerator": "PDF AIジェネレーター",
+          "otherTools": "その他のPDFツール"
+        },
+        "company": "会社",
+        "companyItems": {
+          "vsChatPDF": "PDF.ai vs ChatPDF",
+          "vsAcrobat": "PDF.ai vs Acrobat Reader",
+          "legal": "法的",
+          "affiliate": "アフィリエイトプログラム",
+          "investor": "投資家"
+        }
+      }
+    
+    
+  
+}

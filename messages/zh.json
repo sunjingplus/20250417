@@ -1,0 +1,68 @@
+{
+  "Metadata": {
+    "title": "免费 PDF 页面旋转工具 - 旋转单个页面或所有页面",
+    "description": "轻松旋转 PDF 中的单个页面或所有页面。无需下载或注册。快速、安全且用户友好。立即尝试！",
+    "site-name": "AI PDF",
+    "site-title": "AI PDF"
+},
+    "Navbar": {
+      "title": "PDF.ai",
+      "chrome": "Chrome扩展",
+      "cases": "使用案例", 
+      "started": "立即开始→",
+      "pricing": "价格方案"
+    },
+  
+  
+    "Contact": {
+      "title": "旋转PDF页面",
+      "content": "只需点击页面即可旋转。然后您可以下载修改后的PDF文件。"
+    },
+    
+    
+    
+      "Footer": {
+        "logoAlt": "Logo",
+        "logoText": "PDF.ai",
+        "tagline": "与任何 PDF 聊天：提问、获取摘要等。",
+        "socialMediaTitles": {
+          "tiktok": "TikTok",
+          "instagram": "Instagram",
+          "twitter": "Twitter",
+          "youtube": "YouTube"
+        },
+        "products": "产品",
+        "productItems": {
+          "useCases": "使用案例",
+          "chromeExtension": "Chrome 插件",
+          "apiDocs": "API 文档",
+          "pricing": "价格",
+          "videoTutorials": "视频教程",
+          "resources": "资源",
+          "blog": "博客",
+          "faq": "常见问题"
+        },
+        "weAlsoBuilt": "我们还开发了",
+        "builtItems": {
+          "resumeScanner": "简历 AI 扫描器",
+          "invoiceScanner": "发票 AI 扫描器",
+          "quizGenerator": "AI 测验生成器",
+          "quickyAI": "QuickyAI",
+          "doctrine": "教义",
+          "pdfGPTs": "PDF GPTs",
+          "pdfAIGenerator": "PDF AI 生成器",
+          "otherTools": "其他 PDF 工具"
+        },
+        "company": "公司",
+        "companyItems": {
+          "vsChatPDF": "PDF.ai vs ChatPDF",
+          "vsAcrobat": "PDF.ai vs Acrobat Reader",
+          "legal": "法律",
+          "affiliate": "联盟计划",
+          "investor": "投资者"
+        }
+      }
+    
+    
+  
+}

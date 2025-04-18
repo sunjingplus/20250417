@@ -1,0 +1,61 @@
+{
+  "Metadata": {
+    "title": "Free PDF Page Rotator - Rotate Individual or All Pages",
+    "description": "Rotate individual or all pages in your PDF effortlessly. No downloads or sign-ups. Fast, secure, and user-friendly. Try now!",
+    "site-name": "AI PDF",
+    "site-title": "AI PDF"
+  },
+  "Navbar": {
+    "title": "PDF.ai",
+    "chrome": "Chrome extension",
+    "cases": "Use cases",
+    "started": "Get started→",
+    "pricing":"pricing"
+  },
+  "Contact": {
+    "title": "Rotate PDF Pages",
+    "content": "Simply click on a page to rotate it.You can then download your modified PDF."
+  },
+
+  "Footer":{
+    "logoAlt": "Logo",
+    "logoText": "PDF.ai",
+    "tagline": "Chat with any PDF: ask questions, get summaries, and more.",
+    "socialMediaTitles": {
+      "tiktok": "TikTok",
+      "instagram": "Instagram",
+      "twitter": "Twitter",
+      "youtube": "YouTube"
+    },
+    "products": "Products",
+    "productItems": {
+      "useCases": "Use Cases",
+      "chromeExtension": "Chrome Extension",
+      "apiDocs": "API Docs",
+      "pricing": "Pricing",
+      "videoTutorials": "Video tutorials",
+      "resources": "Resources",
+      "blog": "Blog",
+      "faq": "FAQ"
+    },
+    "weAlsoBuilt": "We also built",
+    "builtItems": {
+      "resumeScanner": "Resume AI Scanner",
+      "invoiceScanner": "Invoice AI Scanner",
+      "quizGenerator": "AI Quiz Generator",
+      "quickyAI": "QuickyAI",
+      "doctrine": "Doctrine",
+      "pdfGPTs": "PDF GPTs",
+      "pdfAIGenerator": "PDF AI generator",
+      "otherTools": "Other PDF tools"
+    },
+    "company": "Company",
+    "companyItems": {
+      "vsChatPDF": "PDF.ai vs ChatPDF",
+      "vsAcrobat": "PDF.ai vs Acrobat Reader",
+      "legal": "Legal",
+      "affiliate": "Affiliate program",
+      "investor": "Investor"
+    }
+  }
+}

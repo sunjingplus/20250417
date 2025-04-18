@@ -1,0 +1,67 @@
+{
+  "Metadata": {
+    "title": "무료 PDF 페이지 회전기 - 개별 페이지 또는 모든 페이지 회전",
+    "description": "PDF의 개별 페이지 또는 모든 페이지를 쉽게 회전합니다. 다운로드나 회원가입이 필요 없습니다. 빠르고 안전하며 사용자 친화적입니다. 지금 시도해보세요!",
+    "site-name": "AI PDF",
+    "site-title": "AI PDF"
+},
+    "Navbar": {
+      "title": "PDF.ai",
+      "chrome": "크롬 확장 프로그램",
+      "cases": "사용 사례",
+      "started": "시작하기→",
+      "pricing": "가격"
+    },
+ 
+  
+    "Contact": {
+      "title": "PDF 페이지 회전",
+      "content": "회전할 페이지를 클릭하기만 하면 됩니다. 수정된 PDF를 다운로드할 수 있습니다."
+    }
+ ,
+ 
+ 
+  "Footer": {
+    "logoAlt": "로고",
+    "logoText": "PDF.ai",
+    "tagline": "어떤 PDF와도 대화하세요: 질문을 하고, 요약을 받고, 더 많은 기능을 이용하세요.",
+    "socialMediaTitles": {
+      "tiktok": "TikTok",
+      "instagram": "Instagram",
+      "twitter": "Twitter",
+      "youtube": "YouTube"
+    },
+    "products": "제품",
+    "productItems": {
+      "useCases": "사용 사례",
+      "chromeExtension": "Chrome 확장 프로그램",
+      "apiDocs": "API 문서",
+      "pricing": "가격",
+      "videoTutorials": "비디오 튜토리얼",
+      "resources": "리소스",
+      "blog": "블로그",
+      "faq": "자주 묻는 질문"
+    },
+    "weAlsoBuilt": "우리가 만든 다른 제품들",
+    "builtItems": {
+      "resumeScanner": "이력서 AI 스캐너",
+      "invoiceScanner": "영수증 AI 스캐너",
+      "quizGenerator": "AI 퀴즈 생성기",
+      "quickyAI": "QuickyAI",
+      "doctrine": "도그마",
+      "pdfGPTs": "PDF GPTs",
+      "pdfAIGenerator": "PDF AI 생성기",
+      "otherTools": "기타 PDF 도구"
+    },
+    "company": "회사",
+    "companyItems": {
+      "vsChatPDF": "PDF.ai vs ChatPDF",
+      "vsAcrobat": "PDF.ai vs Acrobat Reader",
+      "legal": "법적",
+      "affiliate": "제휴 프로그램",
+      "investor": "투자자"
+    }
+  }
+
+
+}

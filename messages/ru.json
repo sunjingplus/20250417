@@ -1,0 +1,66 @@
+{
+  "Metadata": {
+    "title": "Бесплатный инструмент для поворота страниц PDF - Поверните отдельные страницы или все страницы",
+    "description": "Поверните отдельные страницы или все страницы вашего PDF без усилий. Без загрузок или регистрации. Быстро, безопасно и удобно в использовании. Попробуйте сейчас!",
+    "site-name": "AI PDF",
+    "site-title": "AI PDF"
+},
+    "Navbar": {
+      "title": "PDF.ai",
+      "chrome": "Расширение Chrome",
+      "cases": "Примеры использования",
+      "started": "Начать→",
+      "pricing": "Цены"
+    },
+  
+    "Contact": {
+      "title": "Поворот страниц PDF",
+      "content": "Просто нажмите на страницу, чтобы повернуть её. Затем вы можете скачать изменённый PDF."
+    },
+    
+    
+      "Footer": {
+        "logoAlt": "Логотип",
+        "logoText": "PDF.ai",
+        "tagline": "Общайтесь с любым PDF: задавайте вопросы, получайте сводки и многое другое.",
+        "socialMediaTitles": {
+          "tiktok": "TikTok",
+          "instagram": "Instagram",
+          "twitter": "Twitter",
+          "youtube": "YouTube"
+        },
+        "products": "Продукты",
+        "productItems": {
+          "useCases": "Применения",
+          "chromeExtension": "Расширение для Chrome",
+          "apiDocs": "Документация API",
+          "pricing": "Цены",
+          "videoTutorials": "Видеоруководства",
+          "resources": "Ресурсы",
+          "blog": "Блог",
+          "faq": "Часто задаваемые вопросы"
+        },
+        "weAlsoBuilt": "Мы также разработали",
+        "builtItems": {
+          "resumeScanner": "Сканер резюме с ИИ",
+          "invoiceScanner": "Сканер счетов с ИИ",
+          "quizGenerator": "Генератор викторин с ИИ",
+          "quickyAI": "QuickyAI",
+          "doctrine": "Доктрина",
+          "pdfGPTs": "PDF GPTs",
+          "pdfAIGenerator": "Генератор PDF с ИИ",
+          "otherTools": "Другие инструменты для PDF"
+        },
+        "company": "Компания",
+        "companyItems": {
+          "vsChatPDF": "PDF.ai vs ChatPDF",
+          "vsAcrobat": "PDF.ai vs Acrobat Reader",
+          "legal": "Правовой",
+          "affiliate": "Партнерская программа",
+          "investor": "Инвестор"
+        }
+      }
+    
+    
+  
+}

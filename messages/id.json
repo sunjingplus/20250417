@@ -1,0 +1,65 @@
+{
+  "Metadata": {
+    "title": "Rotator Halaman PDF Gratis - Putar Halaman Individual atau Semua Halaman",
+    "description": "Putar halaman individual atau semua halaman dalam PDF Anda dengan mudah. Tidak perlu unduhan atau pendaftaran. Cepat, aman, dan ramah pengguna. Coba sekarang!",
+    "site-name": "AI PDF",
+    "site-title": "AI PDF"
+},
+  
+    "Navbar": {
+      "title": "PDF.ai",
+      "chrome": "Extension Chrome",
+      "cases": "Cas d'utilisation",
+      "started": "Commencer→",
+      "pricing": "Tarification"
+    },
+  
+    "Contact": {
+      "title": "Putar Halaman PDF",
+      "content": "Cukup klik pada halaman untuk memutarnya. Anda kemudian dapat mengunduh PDF yang telah dimodifikasi."
+    },
+    
+      "Footer": {
+        "logoAlt": "Logo",
+        "logoText": "PDF.ai",
+        "tagline": "Obrolan dengan PDF apa pun: ajukan pertanyaan, dapatkan ringkasan, dan lebih lagi.",
+        "socialMediaTitles": {
+          "tiktok": "TikTok",
+          "instagram": "Instagram",
+          "twitter": "Twitter",
+          "youtube": "YouTube"
+        },
+        "products": "Produk",
+        "productItems": {
+          "useCases": "Kasus Penggunaan",
+          "chromeExtension": "Ekstensi Chrome",
+          "apiDocs": "Dokumentasi API",
+          "pricing": "Harga",
+          "videoTutorials": "Tutorial Video",
+          "resources": "Sumber daya",
+          "blog": "Blog",
+          "faq": "FAQ"
+        },
+        "weAlsoBuilt": "Kami juga mengembangkan",
+        "builtItems": {
+          "resumeScanner": "Pemindaai Resume AI",
+          "invoiceScanner": "Pemindaai Faktur AI",
+          "quizGenerator": "Pembuat Kuis AI",
+          "quickyAI": "QuickyAI",
+          "doctrine": "Doctrine",
+          "pdfGPTs": "PDF GPTs",
+          "pdfAIGenerator": "Pembuat PDF AI",
+          "otherTools": "Alat PDF Lainnya"
+        },
+        "company": "Perusahaan",
+        "companyItems": {
+          "vsChatPDF": "PDF.ai vs ChatPDF",
+          "vsAcrobat": "PDF.ai vs Acrobat Reader",
+          "legal": "Hukum",
+          "affiliate": "Program Mitra",
+          "investor": "Investor"
+        }
+      }
+    
+    
+}

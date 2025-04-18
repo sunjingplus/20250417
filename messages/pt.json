@@ -1,0 +1,68 @@
+{
+  "Metadata": {
+    "title": "Rotator de Páginas PDF Grátis - Girar Páginas Individuais ou Todas as Páginas",
+    "description": "Gire páginas individuais ou todas as páginas do seu PDF facilmente. Sem downloads ou cadastros. Rápido, seguro e fácil de usar. Experimente agora!",
+    "site-name": "AI PDF",
+    "site-title": "AI PDF"
+},
+    "Navbar": {
+      "title": "PDF.ai",
+      "chrome": "Extensão Chrome",
+      "cases": "Casos de uso",
+      "started": "Começar→",
+      "pricing": "Preços"
+    },
+
+  
+  
+    "Contact": {
+      "title": "Rodar páginas PDF",
+      "content": "Basta clicar numa página para rodá-la. Depois pode descarregar o seu PDF modificado."
+    },
+    
+    
+      "Footer": {
+        "logoAlt": "Logo",
+        "logoText": "PDF.ai",
+        "tagline": "Converse com qualquer PDF: faça perguntas, obtenha resumos e muito mais.",
+        "socialMediaTitles": {
+          "tiktok": "TikTok",
+          "instagram": "Instagram",
+          "twitter": "Twitter",
+          "youtube": "YouTube"
+        },
+        "products": "Produtos",
+        "productItems": {
+          "useCases": "Casos de Uso",
+          "chromeExtension": "Extensão do Chrome",
+          "apiDocs": "Documentação da API",
+          "pricing": "Preços",
+          "videoTutorials": " Tutoriais em Vídeo",
+          "resources": "Recursos",
+          "blog": "Blog",
+          "faq": "Perguntas Frequentes"
+        },
+        "weAlsoBuilt": "Também desenvolvemos",
+        "builtItems": {
+          "resumeScanner": "Scanner de currículo com IA",
+          "invoiceScanner": "Scanner de faturas com IA",
+          "quizGenerator": "Gerador de Quiz com IA",
+          "quickyAI": "QuickyAI",
+          "doctrine": "Doutrina",
+          "pdfGPTs": "PDF GPTs",
+          "pdfAIGenerator": "Gerador de PDF com IA",
+          "otherTools": "Outras ferramentas para PDF"
+        },
+        "company": "Empresa",
+        "companyItems": {
+          "vsChatPDF": "PDF.ai vs ChatPDF",
+          "vsAcrobat": "PDF.ai vs Acrobat Reader",
+          "legal": "Legal",
+          "affiliate": "Programa de Afiliados",
+          "investor": "Investidor"
+        }
+      }
+    
+  
+  
+}

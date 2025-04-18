@@ -1,0 +1,68 @@
+{
+  "Metadata": {
+    "title": "Rotateur de Pages PDF Gratuit - Faites Pivoter des Pages Individuelles ou Toutes les Pages",
+    "description": "Faites pivoter des pages individuelles ou toutes les pages de votre PDF sans effort. Aucun téléchargement ni inscription nécessaires. Rapide, sécurisé et convivial. Essayez maintenant !",
+    "site-name": "AI PDF",
+    "site-title": "AI PDF"
+},
+  
+    "Navbar": {
+      "title": "PDF.ai",
+      "chrome": "Extension Chrome",
+      "cases": "Cas d'utilisation",
+      "started": "Commencer→",
+      "pricing": "Tarification"
+    },
+
+  
+    "Contact": {
+      "title": "Rotation des pages PDF",
+      "content": "Cliquez simplement sur une page pour la faire pivoter. Vous pouvez ensuite télécharger votre PDF modifié."
+    },
+    
+    
+      "Footer": {
+        "logoAlt": "Logo",
+        "logoText": "PDF.ai",
+        "tagline": "Discutez avec n'importe quel PDF : posez des questions, obtenez des résumés et plus encore.",
+        "socialMediaTitles": {
+          "tiktok": "TikTok",
+          "instagram": "Instagram",
+          "twitter": "Twitter",
+          "youtube": "YouTube"
+        },
+        "products": "Produits",
+        "productItems": {
+          "useCases": "Cas d'utilisation",
+          "chromeExtension": "Extension Chrome",
+          "apiDocs": "Documentation API",
+          "pricing": "Tarification",
+          "videoTutorials": "Tutoriels vidéo",
+          "resources": "Ressources",
+          "blog": "Blog",
+          "faq": "FAQ"
+        },
+        "weAlsoBuilt": "Nous avons également développé",
+        "builtItems": {
+          "resumeScanner": "Scan de CV avec IA",
+          "invoiceScanner": "Scan de factures avec IA",
+          "quizGenerator": "Générateur de quiz avec IA",
+          "quickyAI": "QuickyAI",
+          "doctrine": " Doctrine",
+          "pdfGPTs": "PDF GPTs",
+          "pdfAIGenerator": "Générateur de PDF avec IA",
+          "otherTools": "Autres outils PDF"
+        },
+        "company": "Entreprise",
+        "companyItems": {
+          "vsChatPDF": "PDF.ai vs ChatPDF",
+          "vsAcrobat": "PDF.ai vs Acrobat Reader",
+          "legal": "Légal",
+          "affiliate": "Programme de partenariat",
+          "investor": "Investisseur"
+        }
+      }
+    
+    
+  
+}

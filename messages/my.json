@@ -1,0 +1,66 @@
+{
+  "Metadata": {
+    "title": "အချိန်မေးခွန်းမှာ PDF စာမူ စာသားပြောင်းရန် အခြား စာမူများ သို့မဟုတ် အားလုံး စာမူများ ပြောင်းရန် လွယ်ကူစွာ ပြောင်းပါ",
+    "description": "သင့် PDF ထဲရှိ အခြား စာမူများ သို့မဟုတ် အားလုံး စာမူများကို လွယ်ကူစွာ ပြောင်းပါ။ အောက်ခံတွေ့ရှိမှု မလိုပါ။ အမြဲတမ်း၊ လုံခြုံပါ။ အသုံးပြုသည်။ အခု သုံးပါ!",
+    "site-name": "AI PDF",
+    "site-title": "AI PDF"
+},
+    "Navbar": {
+      "title": "PDF.ai",
+      "chrome": "Chrome ထပ်တိုး",
+      "cases": "အသုံးပြုနည်းနမူနာများ",
+      "started": "စတင်ရန်→",
+      "pricing": "စျေးနှုန်း"
+    },
+  
+  
+    "Contact": {
+      "title": "PDF စာမျက်နှာများလှည့်ရန်",
+      "content": "စာမျက်နှာတစ်ခုကိုနှိပ်ပြီးလှည့်နိုင်ပါသည်။ ပြင်ဆင်ပြီး PDF ကိုဒေါင်းလုဒ်ဆွဲနိုင်ပါသည်။"
+    },
+    
+    
+      "Footer": {
+        "logoAlt": "လိုဂို",
+        "logoText": "PDF.ai",
+        "tagline": "အားလုံးအတွက် PDF နှင့် သွေးနွေးပါ: မေးခွန်းများအား မေးပြီး၊ အောက်ချိန်များကို ရယူပါ။",
+        "socialMediaTitles": {
+          "tiktok": "TikTok",
+          "instagram": "Instagram",
+          "twitter": "Twitter",
+          "youtube": "YouTube"
+        },
+        "products": "ပণုံးမူ",
+        "productItems": {
+          "useCases": "အသုံးပြုမှု အောက်ချိန်များ",
+          "chromeExtension": "Chrome ဖြုံ့လှုပ်ရှားမှု",
+          "apiDocs": "API မူ့စာတမ်း",
+          "pricing": "ဈေးနှုန်းမှု",
+          "videoTutorials": "ဗီဒီယို အက်းသောင်းမူ့စာတမ်း",
+          "resources": "စိတ်စားအချက်များ",
+          "blog": "ဗျာ့့",
+          "faq": "မေးခွန်းများကို အကြောင်းဖော်ပြချက်များ"
+        },
+        "weAlsoBuilt": "ကျွန်ုပ်တို့လည်း တည်ဆောက်ခဲ့ပါသည်",
+        "builtItems": {
+          "resumeScanner": "အလုပ်အခြားအချက်များ AI အင်းတာကိုင်",
+          "invoiceScanner": "ခွန်းစာအင်းတာကိုင် AI",
+          "quizGenerator": "AI အက်းအောက်မူ့စာတမ်း",
+          "quickyAI": "QuickyAI",
+          "doctrine": "သို့်းတို့်းတား",
+          "pdfGPTs": "PDF GPTs",
+          "pdfAIGenerator": "PDF AI အင်းတာကိုင်",
+          "otherTools": "ခြားနှုန်း PDF အသုံးပြုမှု"
+        },
+        "company": "ကုမ္ပဏီ",
+        "companyItems": {
+          "vsChatPDF": "PDF.ai vs ChatPDF",
+          "vsAcrobat": "PDF.ai vs Acrobat Reader",
+          "legal": "ဥပဒေ",
+          "affiliate": "အဖွဲ့အစည်းအဖွဲ့အစည်းအကြောင်းအချက်များ",
+          "investor": "ဥပက္ခာရှင်"
+        }
+      }
+    
+  
+}
